@@ -55,6 +55,15 @@ nav ul li a:hover {
   display: flex;
   justify-content: end;
 }
+#subtotal{
+    display: none;
+    font-family: "Oswald", sans-serif;
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1 rem;
+    padding: 0px 5px;
+    
+}
 .badge:after{
   font-family: "Oswald", sans-serif;
   font-size: 0.75rem;
