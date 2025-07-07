@@ -17,12 +17,10 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
 - Contador visual de productos
 - Cálculo automático del total
 - Indicador visual cuando un producto es agregado
-
-
 ## Screenshots
 
-![Pizzeria imagen 1](screen_01)
-![Pizzeria imagen 2](screen_02)
+![Pizzeria imagen 1](screen_01.png)
+![Pizzeria imagen 2](screen_02.png)
 
 ## Autor
 - [@Ezepitro] (https://github.com/Ezepitro)
