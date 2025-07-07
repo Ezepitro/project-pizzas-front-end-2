@@ -18,6 +18,7 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
 - Cálculo automático del total
 - Indicador visual cuando un producto es agregado
 
+
 ## Screenshots
 
 ![Pizzeria imagen 1](screen_01)
