@@ -26,7 +26,7 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
 -[Web del Sitio] ()
 
 ## Autor
-- [@Ezepitro] (https://github.com/Ezepitro)
+-[@Ezepitro](https://github.com/Ezepitro)
 
 ## Licens
 
